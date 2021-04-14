@@ -2,7 +2,7 @@
 
 <p class="erase-me">Erase is a bookmarklet for creating erasure poetry out of online texts.</p>
 
-<p id="erase-me-baby">It was made with f\*cebook mess\*nger in mind, it works okay with any chunk of text.
+<p id="erase-me-baby">It was made with f*cebook mess*nger in mind, it works okay with any chunk of text.
 Anything that's not plain text might break - If something breaks, or you erase too far, just refresh the page to return everything to it's initial state.</p>
 
 <p>
@@ -33,5 +33,5 @@ Anything that's not plain text might break - If something breaks, or you erase t
   <li><a class="link" href="https://mkremins.github.io/">Max Kreminski</a> <span class="erase-me">for making</span> <a href="https://mkremins.github.io/blackout/">blackout</a><span class="erase-me"> - another inspiration.</span></li>
 </ul>
 <footer>
-  <p>developed by <a href="https://yesthisislouis.com">Louis</a> for fun → <a href="https://github.com/Louis-yes/erase">here it is on github</a></p>
+  <p>developed by <a href="https://yesthisislouis.com">Louis</a> for fun
 </footer>
