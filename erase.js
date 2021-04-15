@@ -3,7 +3,7 @@
 // Make readme / installation page
 
 
-if(!document.body.classList.contains("eraser-initiated")) {
+if(!document.body.classList.contains("preparing-poetry")) {
 	if(!document.querySelector('#erase-style')){
   	var styles = `
   		.ready-for-poetry .erase-able:hover {
